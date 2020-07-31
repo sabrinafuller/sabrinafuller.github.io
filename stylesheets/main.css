@@ -1,7 +1,7 @@
 body {
-    margin: 0;
+    margin: 5px;
     margin-top: 50px;
-    font-family: sans-serif;
+    font-family: helvetica;
 }
 
 header {
@@ -42,7 +42,7 @@ section {
     background-attachment: fixed; /* Add this line */
 }
 
-#hero .profile-img {
+#hhome .profile-img {
     width: 300px;
     border-radius: 50%;
 }
@@ -52,15 +52,15 @@ footer {
     padding: 50px;
 }
 
-#hero h1 {
+#hhome h2 {
     font-size: 3em;
 }
 
-section h2 {
+section h3 {
     font-size: 2.5em;
 }
 
-section h3 {
+section h4 {
     font-size: 1.5em;
 }
 
@@ -71,22 +71,22 @@ header a {
 
 /* Add everything below here */
 
-#hero {
+#hhome {
  
     background: rgba(246, 145, 233, 0.9);
-    <!background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), 
-         url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');-->
+    /*background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), 
+         url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');*/
 }
 
 #about {
-      background: rgba(246, 145, 233, 0.8);
-    <!background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), 
-         url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');-->
+       background: rgba(246, 145, 233, 0.9);
+    /*background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), 
+         url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');*/
     
 }
 
-#contact {
-      background: rgba(246, 145, 233, 0.7);
-    <!background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), 
-         url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');-->
+#resume {
+       background: rgba(246, 145, 233, 0.9);
+    /*background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), 
+         url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');*/
 }
