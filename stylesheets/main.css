@@ -74,16 +74,16 @@ header a {
 #hhome {
  
     /*background: rgba(246, 145, 233, 0.9);*/
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://www.flickr.com/photos/59820460@N07/32518513875');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('/32518513875_a38e73fb6f_o.jpg');
 }
 
 #about {
        
-       background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://www.flickr.com/photos/59820460@N07/32518513875');
+       background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('/32518513875_a38e73fb6f_o.jpg');
     
 }
 
 #resume {
        /*background: rgba(246, 145, 233, 0.9);*/
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://www.flickr.com/photos/59820460@N07/32518513875');
+    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('/32518513875_a38e73fb6f_o.jpg');
 }
