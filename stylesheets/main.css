@@ -70,19 +70,19 @@ header a {
 
 /* Add everything below here */
 
-.hhome {
+#hhome {
  
     /*background: rgba(246, 145, 233, 0.9);*/
     background-image: url('https://scx1.b-cdn.net/csz/news/800/2019/1-stars.jpg');
 }
 
-.about {
+#about {
        
        background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://scx1.b-cdn.net/csz/news/800/2019/1-stars.jpg');
     
 }
 
-.resume {
+#projects {
        /*background: rgba(246, 145, 233, 0.9);*/
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://scx1.b-cdn.net/csz/news/800/2019/1-stars.jpg');
 }
